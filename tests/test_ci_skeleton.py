@@ -94,7 +94,10 @@ build_artifacts
 
 # IDE config
 .vscode/
-
+# Pycharm
+.idea/
+# Notepad++ files
+nppBackup/
 # conda smithy ci-skeleton end
 """
 
